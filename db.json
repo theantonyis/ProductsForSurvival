@@ -4,7 +4,13 @@
           "id": 1,
           "name": "Anton",
           "sirname": "Kostaniuk",
-          "photo_url": "https://avatars.githubusercontent.com/u/28813689?v=4"
+          "url": "https://github.com/theantonyis/"
+      },
+      {
+          "id": 2,
+          "name": "Iryna",
+          "sirname": "Bielova",
+          "url": "https://github.com/irab228912"
       }
     ]
 }
