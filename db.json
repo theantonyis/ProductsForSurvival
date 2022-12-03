@@ -23,6 +23,12 @@
           "name": "Mikhajlo",
           "sirname": "Churak",
           "url": "https://github.com/MihailIgroman"
-      },
-    ]
+      }
+    ],
+  "products": [
+    {
+        "name": "Bottle of water",
+        "stats": "500ml"
+    },
+  ]
 }
