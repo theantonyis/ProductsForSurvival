@@ -34,5 +34,9 @@
         "name": "matches",
         "stats": "50 pieces"
     },
+        {
+        "name": "tent",
+        "stats": "5x5m"
+    },
   ]
 }
