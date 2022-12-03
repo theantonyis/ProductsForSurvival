@@ -34,9 +34,13 @@
         "name": "matches",
         "stats": "50 pieces"
     },
-        {
+    {
         "name": "tent",
         "stats": "5x5m"
+    },
+    {
+        "name": "АИ-100-К5",
+        "stats": "10L"
     },
   ]
 }
