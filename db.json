@@ -1,5 +1,10 @@
 {
   "users":[
-    
+      {
+          "id": 1,
+          "name": "Anton",
+          "sirname": "Kostaniuk",
+          "photo_url": "https://avatars.githubusercontent.com/u/28813689?v=4"
+      }
     ]
 }
