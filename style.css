@@ -1,0 +1,13 @@
+body {
+	background-color: #97BC62FF;
+	color: #2C5F2D;
+}
+h2 {
+	background-color: #2C5F2D;
+	color: lightskyblue;
+	padding: 0px 0px;
+	float: left;
+}
+li {
+	font-weight: bold;
+}
