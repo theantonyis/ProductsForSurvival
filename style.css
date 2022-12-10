@@ -1,0 +1,18 @@
+body{
+	background-color: lightblue	;
+	font-family: cursive;
+	text-align: center;
+}
+
+img{
+	border-radius: 	5px;
+	transform: rotate(-10deg);
+	width: 300px;
+	height: 300px;
+}
+
+#imgs{
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 40px;
+}
