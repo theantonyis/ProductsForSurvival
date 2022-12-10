@@ -2,6 +2,7 @@ body{
 	background-color: lightblue	;
 	font-family: cursive;
 	text-align: center;
+  color: #2C5F2D;
 }
 
 img{
@@ -15,4 +16,15 @@ img{
 	display: flex;
 	justify-content: space-around;
 	margin-bottom: 40px;
+}
+
+h2 {
+	background-color: #2C5F2D;
+	color: lightskyblue;
+	padding: 0px 0px;
+	float: left;
+}
+
+li {
+	font-weight: bold;
 }
