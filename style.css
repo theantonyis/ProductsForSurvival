@@ -1,13 +1,30 @@
-body {
-	background-color: #97BC62FF;
-	color: #2C5F2D;
+body{
+	background-color: lightblue	;
+	font-family: cursive;
+	text-align: center;
+  color: #2C5F2D;
 }
+
+img{
+	border-radius: 	5px;
+	transform: rotate(-10deg);
+	width: 300px;
+	height: 300px;
+}
+
+#imgs{
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 40px;
+}
+
 h2 {
 	background-color: #2C5F2D;
 	color: lightskyblue;
 	padding: 0px 0px;
 	float: left;
 }
+
 li {
 	font-weight: bold;
 }
