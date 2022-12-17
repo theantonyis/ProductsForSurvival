@@ -1,0 +1,30 @@
+body{
+	background-color: #918E85;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+}
+
+.fa-cart-shopping{
+	position: absolute;
+	right: 20px;
+	top: 30px;
+}
+
+.products{
+	font-family: cursive;
+	font-size: 18px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 20px;
+}
+
+.btn-buy{
+	width: 100px;
+	height: 35px;
+	border-radius: 4px;
+	background-color: white;
+	margin-top: 10px;
+}
