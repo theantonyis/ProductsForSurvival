@@ -31,7 +31,7 @@
         "stats": "1,5L",
         "price": "20",
         "desc": "Неймовірно освіжаюча вода, яка дає людині друге дихання в скрутній і безвиходній ситуації. Купуйте за зниженою ціною!",
-        "photo_url": "https://o.remove.bg/downloads/991dc091-70cb-4e56-a987-c85bc1fd05e5/390073_4-removebg-preview.png"
+        "photo_url": "./images/bottle.png"
     },
     {
         "name": "matches",
@@ -48,7 +48,7 @@
     },
     {
         "name": "АИ-100-К5",
-        "stats": "1L",
+        "stats": "10L",
         "price": "50",
         "desc": "Неетильований бензин, можна використовувати в генераторі",
         "photo_url": "https://o.remove.bg/downloads/fbc9a73f-fcf1-4308-9a49-f741a346d2ff/f56286f3-f52e-43ff-ba56-631ee642b77c-removebg-preview.png"
