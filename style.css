@@ -7,11 +7,20 @@ body{
 
 img{
 	border-radius: 	5px;
-	transform: rotate(-10deg);
+	/*transform: rotate(-10deg);*/
 	width: 300px;
 	height: 300px;
 }
-
+/*img.korzyna {*/
+#cart {
+	position: fixed;
+	right: 10px;
+	top: 30px;
+}
+#cart img {
+	width: 100px;
+	height: 100px;
+}
 #imgs{
 	display: flex;
 	justify-content: space-around;
@@ -32,7 +41,7 @@ li {
     background-color: #FFFFFF;
     border: 3px solid #31AE9D;
     color: #31AE9D;
-    font-size: 1.7rem;
-    border-radius: 5px;
+    ont-size: 1.7rem;
+    boder-radius: 5px;
     width: 50px;
 }
