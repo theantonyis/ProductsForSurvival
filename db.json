@@ -28,10 +28,10 @@
   "products": [
     {
         "name": "Bottle of water",
-        "stats": "1,5L",
-        "price": "20",
+        "stats": "18,9L",
+        "price": "120",
         "desc": "Неймовірно освіжаюча вода, яка дає людині друге дихання в скрутній і безвиходній ситуації. Купуйте за зниженою ціною!",
-        "photo_url": "./images/bottle.png"
+        "photo_url": "./images/bottle(1).png"
     },
     {
         "name": "matches",
