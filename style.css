@@ -15,7 +15,6 @@ body{
 }
 img{
 	border-radius: 	5px;
-	transform: rotate(-10deg);
 	width: 300px;
 	height: 300px;
 }
