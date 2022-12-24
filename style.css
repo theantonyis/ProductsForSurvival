@@ -25,6 +25,7 @@ img{
 	justify-content: space-around;
 	margin-bottom: 40px;
 }
+<<<<<<< HEAD
 #cart-product::before {
 	content: '';
 	border: transparent solid 16px;
@@ -45,3 +46,23 @@ img{
 	padding: 10px;
 	text-align: left;
 }
+=======
+h2 {
+	background-color: #2C5F2D;
+	color: lightskyblue;
+	padding: 0px 0px;
+	float: left;
+}
+
+li {
+	font-weight: bold;
+}
+.btn {
+    background-color: #FFFFFF;
+    border: 3px solid #31AE9D;
+    color: #31AE9D;
+    font-size: 1.7rem;
+    border-radius: 5px;
+    width: 50px;
+}
+>>>>>>> 09bc5a8666089984f25309cc05669f5a49fa1062
