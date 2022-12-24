@@ -25,3 +25,21 @@ img{
 	justify-content: space-around;
 	margin-bottom: 40px;
 }
+h2 {
+	background-color: #2C5F2D;
+	color: lightskyblue;
+	padding: 0px 0px;
+	float: left;
+}
+
+li {
+	font-weight: bold;
+}
+.btn {
+    background-color: #FFFFFF;
+    border: 3px solid #31AE9D;
+    color: #31AE9D;
+    font-size: 1.7rem;
+    border-radius: 5px;
+    width: 50px;
+}
