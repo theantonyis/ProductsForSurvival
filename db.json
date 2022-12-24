@@ -38,27 +38,27 @@
         "stats": "20 boxes",
         "price": "15",
         "desc": "Сірни́к — тонка дерев'яна паличка з голівкою із легкозаймистої речовини, що загоряється від тертя. Призначена для запалювання вогню.",
-        "photo_url": "https://o.remove.bg/downloads/4287ae04-aac8-4039-8da2-b33e30269eda/258314031-removebg-preview.png"
+        "photo_url": "./images/matches.png"
     },
     {
         "name": "tent",
         "stats": "5x5m",
         "price": "1200",
-        "photo_url": ""
+        "photo_url": "./images/tent.png"
     },
     {
         "name": "АИ-100-К5",
         "stats": "10L",
         "price": "268.5",
         "desc": "Неетильований бензин, можна використовувати в генераторі",
-        "photo_url": "https://o.remove.bg/downloads/fbc9a73f-fcf1-4308-9a49-f741a346d2ff/f56286f3-f52e-43ff-ba56-631ee642b77c-removebg-preview.png"
+        "photo_url": "./images/fuel.png"
     },
     {
         "name": "RZTK G 8500E ATS",
         "stats": "1 thing",
         "price": "75999",
         "desc": "Генератор на 7.5 кВт, 25 літрів",
-        "photo_url": "https://content.rozetka.com.ua/goods/images/big/202481954.jpg"
+        "photo_url": "./images/generator.png"
     }
   ]
 }
