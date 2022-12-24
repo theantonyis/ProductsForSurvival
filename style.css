@@ -1,10 +1,18 @@
 body{
-	background-color: lightblue	;
+	background-color: #97BC62FF;
+	color: #2C5F2D;
 	font-family: cursive;
 	text-align: center;
-  color: #2C5F2D;
 }
-
+.products {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	border: 2px solid;
+}
+.name {
+	font-size: 25px;
+	font-weight: bold;
+}
 img{
 	border-radius: 	5px;
 	/*transform: rotate(-10deg);*/
@@ -26,7 +34,6 @@ img{
 	justify-content: space-around;
 	margin-bottom: 40px;
 }
-
 h2 {
 	background-color: #2C5F2D;
 	color: lightskyblue;
