@@ -2,7 +2,7 @@ body{
 	background-color: #97BC62FF;
 	color: #2C5F2D;
 	font-family: cursive;
-	text-align: center;
+	
 }
 .products {
 	display: grid;
@@ -24,4 +24,24 @@ img{
 	display: flex;
 	justify-content: space-around;
 	margin-bottom: 40px;
+}
+#cart-product::before {
+	content: '';
+	border: transparent solid 16px;
+	border-bottom: solid #000 16px;
+	position: relative;
+	top: -2.7rem;
+	left: 15.8rem;
+	z-index: -1;
+}
+#cart-products {
+	border: 1px solid #000;
+	border-radius: 0.5rem;
+	background-color: #fff;
+	top: 59px;
+	right: 0rem;
+	left: -16rem;
+	position: absolute;
+	padding: 10px;
+	text-align: left;
 }
